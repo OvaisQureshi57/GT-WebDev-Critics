@@ -1,0 +1,21 @@
+,name,review_count,categories,rating,transactions/0,price,address,city,zip_code,location/display_address/1,phone,distance
+0,Poor Calvin's,4351,Asian Fusion,4.5,pickup,$$$,510 Piedmont Ave NE,Atlanta,30308,"Atlanta, GA 30308",(404) 254-4051,960.1796369867094
+1,Atlanta Breakfast Club,6148,Southern,4.5,pickup,$$,249 Ivan Allen Jr Blvd,Atlanta,30313,"Atlanta, GA 30313",(470) 428-3825,2234.17496895074
+2,Mary Mac's Tea Room,4737,Southern,4.0,delivery,$$,224 Ponce De Leon Ave NE,Atlanta,30308,"Atlanta, GA 30308",(404) 876-1800,694.8322178613946
+3,Aviva by Kameel - Atlanta,1736,Mediterranean,5.0,pickup,$$,225 Peachtree St NE,Atlanta,30303,Ste B-30,(404) 698-3600,1789.863283802562
+4,South City Kitchen Midtown,3087,Southern,4.5,delivery,$$,1144 Crescent Ave NE,Atlanta,30309,"Atlanta, GA 30309",(404) 873-7358,1925.444319405883
+5,Fox Bros. Bar-B-Q,4472,Barbeque,4.5,delivery,$$,1238 Dekalb Ave NE,Atlanta,30307,"Atlanta, GA 30307",(404) 577-4030,2605.127976526162
+6,Two Urban Licks,3295,Bars,4.0,delivery,$$$,820 Ralph McGill Blvd NE,Atlanta,30306,"Atlanta, GA 30306",(404) 522-4622,1107.7838809192033
+7,Georgia Aquarium,3244,Aquariums,4.0,,,225 Baker St,Atlanta,30313,"Atlanta, GA 30313",(404) 581-4000,2265.422431660961
+8,Highland Bakery,1781,Bakeries,4.0,pickup,$$,655 Highland Ave NE,Atlanta,30312,Ste 10,(404) 586-0772,1310.6680825897072
+9,Hattie B's Hot Chicken - Atlanta East,2033,Chicken Shop,4.5,delivery,$$,299 Moreland Ave NE,Atlanta,30307,"Atlanta, GA 30307",(678) 990-5100,2437.5853468429527
+10,Herban Fix - Vegan Kitchen,902,Vegan,4.5,delivery,$$,565-A Peachtree St NE,Atlanta,30308,"Atlanta, GA 30308",(404) 815-8787,1155.6210815257718
+11,The Vortex Bar And Grill - Midtown,1958,Burgers,4.0,delivery,$$,878 Peachtree St NE,Atlanta,30309,"Atlanta, GA 30309",(404) 875-1667,1365.3497623876783
+12,Botiwalla,553,Indian,4.5,pickup,$$,675 Ponce De Leon Ave NE,Atlanta,30308,"Atlanta, GA 30308",(470) 225-8963,622.7179371751413
+13,Flying Biscuit Café - Midtown,1875,Breakfast & Brunch,4.0,pickup,$$,1001 Piedmont Ave,Atlanta,30309,"Atlanta, GA 30309",(404) 874-8887,1345.6538276546762
+14,Cypress Street Pint & Plate,1473,Gastropubs,4.0,delivery,$$,817 W Peachtree St NE,Atlanta,30308,"Atlanta, GA 30308",(404) 815-9243,1402.816684852652
+15,Papi's Cuban & Caribbean Grill,1147,Cuban,4.0,pickup,$$,216 Ponce De Leon Ave NE,Atlanta,30308,"Atlanta, GA 30308",(404) 607-1525,727.7562362376482
+16,Barcelona Inman Park,1401,Spanish,4.0,delivery,$$,240 N Highland Ave NE,Atlanta,30307,"Atlanta, GA 30307",(404) 589-1010,1542.9861753491612
+17,BeetleCat,1231,Seafood,4.0,delivery,$$$,299 North Highland Ave NE,Atlanta,30307,"Atlanta, GA 30307",(678) 732-0360,1668.5467419894928
+18,Delbar Middle Eastern,646,Persian/Iranian,4.5,pickup,$$$,870 Inman Village Pkwy NE,Atlanta,30307,"Atlanta, GA 30307",(404) 500-1444,1603.502077422707
+19,Ecco Midtown,972,Modern European,4.0,delivery,$$$,40 7th St NE,Atlanta,30308,"Atlanta, GA 30308",(404) 347-9555,1462.3946263015052

@@ -1,0 +1,99 @@
+.sidebar {
+  background-color: #c6211b; 
+  width: 200px;
+  height: 100vh;
+  position: fixed;
+  top: 20;
+  left: -250px;
+  z-index: 1;
+  transition: all 0.3s ease;
+  }
+  
+.sidebar.open {
+    left: 0;
+  }
+  
+.sidebar.closed {
+    left: -240px;
+  }
+
+.deals {
+    position: relative;
+    top: 45px;
+    left: 65px;
+    font-family: 'DM Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+.rewards {
+    position: relative;
+    top: 85px;
+    left: 30px;
+    font-family: 'DM Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+.message {
+    position: relative;
+    top: 125px;
+    left: 40px;
+    font-family: 'DM Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+.connect {
+    position: relative;
+    top: 250px;
+    left: 20px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.grey-box {
+    position: relative;
+    top: 275px;
+    left: 23px;
+    width: 154.57px;
+    height: 114px;
+    border-radius: 10px;
+    background-color: #D9D9D9;
+}
+
+.instagram {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.facebook {
+    position: relative;
+    top: -28px;
+    left: 50px;
+}
+
+.phone {
+    position: relative;
+    top: -65px;
+    left: 90px;
+}
+  

@@ -1,0 +1,118 @@
+.body {
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.EntryPage {
+    background-size: cover;
+    background-position: center;
+    height: 425px;
+    width: auto;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.29), rgba(0, 0, 0, 0.29)), url("../../images/CriticsBackgroundPhoto.jpg");
+    mix-blend-mode: darken;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+
+  .invisible {
+    text-indent: -9999px;  
+    font-size: 600px;
+  }
+
+  .invisible2 {
+    text-indent: -9999px;  
+    font-size: 125px;
+  }
+
+.search-bar {
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    max-width: 350px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+  }
+
+.where {
+    font-family: DM Sans;
+    font-weight: 800;
+    font-size: 25px;
+    color: #FFFFFF;
+    position: absolute;
+    top: -50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 400px;
+}
+
+.sButton {
+    position: absolute;
+    top: 70%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 400px;
+}
+
+.logo {
+    background-image: url('../../images/CriticsLogo.png');
+    position: absolute;
+    top: 18%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    width: 150%;
+    max-width: 300px;
+    transform: scale(1.5);
+}
+
+.popular {
+    font-family: DM Sans;
+    font-weight: 800;
+    font-size: 25px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 78%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 400px;
+}
+
+.pLocation1 {
+    position: absolute;
+    top: 95%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    width: 150%;
+    max-width: 300px;
+}
+
+.pLocation2 {
+    position: absolute;
+    top: 95%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    width: 150%;
+    max-width: 300px;
+}
+
+.pLocation3 {
+    position: absolute;
+    top: 95%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+    width: 150%;
+    max-width: 300px;
+}
+
+.pLocation4 {
+    position: absolute;
+    top: 95%;
+    left: 87%;
+    transform: translate(-50%, -50%);
+    width: 150%;
+    max-width: 300px;
+}

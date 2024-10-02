@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "build",
+        "lib": [
+            "es6"
+        ],
+        "skipLibCheck": true,
+        "sourceMap": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": [
+        "src",
+        "tsconfig.json"
+    ]
+}

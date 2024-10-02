@@ -1,0 +1,43 @@
+.Headbar {
+    background-color: #EE3E38;
+    height: 75px;
+    Stroke: Solid #000000;
+    display: flex;
+    position: fixed;
+    width: 100%;
+
+}
+
+.Review {
+    font-family: DM Sans;
+    color: #FFFFFF;
+}
+  
+.Home {
+    font-family: DM Sans;
+    font-style: Bold;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+  
+.About {
+    font-family: DM Sans;
+    font-style: Bold;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+  
+.Contact {
+    font-family: DM Sans;
+    font-style: Bold;
+    font-size: 25px;
+    color: Black;
+}
+
+.Services {
+    font-family: DM Sans;
+    font-style: Bold;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+

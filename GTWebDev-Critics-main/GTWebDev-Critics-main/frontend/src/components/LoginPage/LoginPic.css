@@ -1,0 +1,7 @@
+.image-container2 {
+  width: 300px;
+  height: 150px;
+  background-image: url('../../images/Critics.png');
+  background-size: cover;
+  border-radius: 10px;
+}

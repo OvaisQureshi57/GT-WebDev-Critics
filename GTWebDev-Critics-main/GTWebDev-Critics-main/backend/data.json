@@ -1,0 +1,917 @@
+[
+    {
+        "id": "U-i6cq-yFRVJC4pIKSLX9Q",
+        "alias": "poor-calvins-atlanta-15",
+        "name": "Poor Calvin's",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OqNT3uMiq-ZvhkPmJz_2eA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/poor-calvins-atlanta-15?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 4351,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "southern",
+                "title": "Southern"
+            },
+            {
+                "alias": "comfortfood",
+                "title": "Comfort Food"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 33.7684,
+            "longitude": -84.38226
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "510 Piedmont Ave NE",
+            "address2": null,
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30308",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "510 Piedmont Ave NE",
+                "Atlanta, GA 30308"
+            ]
+        },
+        "phone": "+14042544051",
+        "display_phone": "(404) 254-4051",
+        "distance": 960.1796369867094
+    },
+    {
+        "id": "GJxFtnTqTiokFedNrW9iDQ",
+        "alias": "atlanta-breakfast-club-atlanta",
+        "name": "Atlanta Breakfast Club",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xBI3goY3jhdtoWgk5_EJ9g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/atlanta-breakfast-club-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 6148,
+        "categories": [
+            {
+                "alias": "southern",
+                "title": "Southern"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 33.76502172531836,
+            "longitude": -84.39540055138298
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "249 Ivan Allen Jr Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30313",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "249 Ivan Allen Jr Blvd",
+                "Atlanta, GA 30313"
+            ]
+        },
+        "phone": "+14704283825",
+        "display_phone": "(470) 428-3825",
+        "distance": 2234.1749689507396
+    },
+    {
+        "id": "z9oCxeqOKp2QMfM24m7bUw",
+        "alias": "mary-macs-tea-room-atlanta",
+        "name": "Mary Mac's Tea Room",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1TSRr5FgjKsuSxVeWeB7Rg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mary-macs-tea-room-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 4737,
+        "categories": [
+            {
+                "alias": "southern",
+                "title": "Southern"
+            },
+            {
+                "alias": "venues",
+                "title": "Venues & Event Spaces"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.772832,
+            "longitude": -84.379998
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "224 Ponce De Leon Ave NE",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30308",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "224 Ponce De Leon Ave NE",
+                "Atlanta, GA 30308"
+            ]
+        },
+        "phone": "+14048761800",
+        "display_phone": "(404) 876-1800",
+        "distance": 694.8322178613946
+    },
+    {
+        "id": "BSUDAiXd50PAkfFAztVpDw",
+        "alias": "aviva-by-kameel-atlanta-atlanta",
+        "name": "Aviva by Kameel - Atlanta",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5P3eyDa8bMZvBIZspI2hhQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/aviva-by-kameel-atlanta-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 1736,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            }
+        ],
+        "rating": 5,
+        "coordinates": {
+            "latitude": 33.7605381455292,
+            "longitude": -84.3865554648041
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "225 Peachtree St NE",
+            "address2": "Ste B-30",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30303",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "225 Peachtree St NE",
+                "Ste B-30",
+                "Atlanta, GA 30303"
+            ]
+        },
+        "phone": "+14046983600",
+        "display_phone": "(404) 698-3600",
+        "distance": 1789.8632838025621
+    },
+    {
+        "id": "eG-UO83g_5zDk70FIJbm2w",
+        "alias": "south-city-kitchen-midtown-atlanta-2",
+        "name": "South City Kitchen Midtown",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L1qX2ttHqvNMqgsw_JQNLQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/south-city-kitchen-midtown-atlanta-2?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 3087,
+        "categories": [
+            {
+                "alias": "southern",
+                "title": "Southern"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 33.786,
+            "longitude": -84.3845599
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1144 Crescent Ave NE",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30309",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "1144 Crescent Ave NE",
+                "Atlanta, GA 30309"
+            ]
+        },
+        "phone": "+14048737358",
+        "display_phone": "(404) 873-7358",
+        "distance": 1925.444319405883
+    },
+    {
+        "id": "u-4wti774tFcYRLuQrnHEg",
+        "alias": "fox-bros-bar-b-q-atlanta",
+        "name": "Fox Bros. Bar-B-Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xtfo_GBOkoPy6f1iQYeqdQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fox-bros-bar-b-q-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 4472,
+        "categories": [
+            {
+                "alias": "bbq",
+                "title": "Barbeque"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 33.7610514725111,
+            "longitude": -84.3475019931793
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1238 Dekalb Ave NE",
+            "address2": "",
+            "address3": null,
+            "city": "Atlanta",
+            "zip_code": "30307",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "1238 Dekalb Ave NE",
+                "Atlanta, GA 30307"
+            ]
+        },
+        "phone": "+14045774030",
+        "display_phone": "(404) 577-4030",
+        "distance": 2605.127976526162
+    },
+    {
+        "id": "WkN8Z2Q8gbhjjkCt8cDVxg",
+        "alias": "two-urban-licks-atlanta",
+        "name": "Two Urban Licks",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4dctCSny7AboWCCKLFXbyA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/two-urban-licks-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 3295,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.7684555661887,
+            "longitude": -84.3612738994751
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "820 Ralph McGill Blvd NE",
+            "address2": null,
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30306",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "820 Ralph McGill Blvd NE",
+                "Atlanta, GA 30306"
+            ]
+        },
+        "phone": "+14045224622",
+        "display_phone": "(404) 522-4622",
+        "distance": 1107.7838809192033
+    },
+    {
+        "id": "W2uLX3tc3YrhKKxEIPRmAw",
+        "alias": "georgia-aquarium-atlanta",
+        "name": "Georgia Aquarium",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gk6BdrATSGVv6Rk2Yjzscg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/georgia-aquarium-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 3244,
+        "categories": [
+            {
+                "alias": "aquariums",
+                "title": "Aquariums"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.7630463019815,
+            "longitude": -84.3947916838531
+        },
+        "transactions": [],
+        "location": {
+            "address1": "225 Baker St",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30313",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "225 Baker St",
+                "Atlanta, GA 30313"
+            ]
+        },
+        "phone": "+14045814000",
+        "display_phone": "(404) 581-4000",
+        "distance": 2265.422431660961
+    },
+    {
+        "id": "i3tJgf3BhAej354EhrK7yg",
+        "alias": "highland-bakery-atlanta",
+        "name": "Highland Bakery",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CYHfns58j3dqLUktZXQ78g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/highland-bakery-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 1781,
+        "categories": [
+            {
+                "alias": "bakeries",
+                "title": "Bakeries"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.76122,
+            "longitude": -84.366117
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "655 Highland Ave NE",
+            "address2": "Ste 10",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30312",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "655 Highland Ave NE",
+                "Ste 10",
+                "Atlanta, GA 30312"
+            ]
+        },
+        "phone": "+14045860772",
+        "display_phone": "(404) 586-0772",
+        "distance": 1310.6680825897072
+    },
+    {
+        "id": "viqkunBBI6QOIZehME-7gg",
+        "alias": "hattie-bs-hot-chicken-atlanta-east-atlanta-3",
+        "name": "Hattie B's Hot Chicken - Atlanta East",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KiolANNcATABZ7_me656Aw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hattie-bs-hot-chicken-atlanta-east-atlanta-3?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 2033,
+        "categories": [
+            {
+                "alias": "chickenshop",
+                "title": "Chicken Shop"
+            },
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 33.7624,
+            "longitude": -84.34882
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "299 Moreland Ave NE",
+            "address2": null,
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30307",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "299 Moreland Ave NE",
+                "Atlanta, GA 30307"
+            ]
+        },
+        "phone": "+16789905100",
+        "display_phone": "(678) 990-5100",
+        "distance": 2437.5853468429527
+    },
+    {
+        "id": "uZaT6J821lHMFrfrFno7lg",
+        "alias": "herban-fix-vegan-kitchen-atlanta",
+        "name": "Herban Fix - Vegan Kitchen",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DLVyDzPWJi5gvM3U5L2C5Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/herban-fix-vegan-kitchen-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 902,
+        "categories": [
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 33.7700811335769,
+            "longitude": -84.3849544543691
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "565-A Peachtree St NE",
+            "address2": null,
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30308",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "565-A Peachtree St NE",
+                "Atlanta, GA 30308"
+            ]
+        },
+        "phone": "+14048158787",
+        "display_phone": "(404) 815-8787",
+        "distance": 1155.6210815257718
+    },
+    {
+        "id": "Z2qMwUhnGt_2pA9uQbS7Uw",
+        "alias": "the-vortex-bar-and-grill-midtown-atlanta",
+        "name": "The Vortex Bar And Grill - Midtown",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G3yU2A_ejrasV5tzoxMzew/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-vortex-bar-and-grill-midtown-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 1958,
+        "categories": [
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.779051,
+            "longitude": -84.384438
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "878 Peachtree St NE",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30309",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "878 Peachtree St NE",
+                "Atlanta, GA 30309"
+            ]
+        },
+        "phone": "+14048751667",
+        "display_phone": "(404) 875-1667",
+        "distance": 1365.3497623876783
+    },
+    {
+        "id": "U9SK3eMMp1_MqLbRF8XjSQ",
+        "alias": "botiwalla-atlanta",
+        "name": "Botiwalla",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6IiQffNruj1XFNlwpZk2Ug/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/botiwalla-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 553,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 33.772869,
+            "longitude": -84.366016
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "675 Ponce De Leon Ave NE",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30308",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "675 Ponce De Leon Ave NE",
+                "Atlanta, GA 30308"
+            ]
+        },
+        "phone": "+14702258963",
+        "display_phone": "(470) 225-8963",
+        "distance": 622.7179371751413
+    },
+    {
+        "id": "3ehyrexo3WcoTy74c2jDKA",
+        "alias": "flying-biscuit-café-midtown-atlanta",
+        "name": "Flying Biscuit Café - Midtown",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9PiLUl2SWUyIQhOECrBcsA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/flying-biscuit-caf%C3%A9-midtown-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 1875,
+        "categories": [
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "southern",
+                "title": "Southern"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.782,
+            "longitude": -84.38015
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1001 Piedmont Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30309",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "1001 Piedmont Ave",
+                "Atlanta, GA 30309"
+            ]
+        },
+        "phone": "+14048748887",
+        "display_phone": "(404) 874-8887",
+        "distance": 1345.6538276546762
+    },
+    {
+        "id": "1i63faxXI1TQ7pNlLp3IPQ",
+        "alias": "cypress-street-pint-and-plate-atlanta",
+        "name": "Cypress Street Pint & Plate",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A8wfrOnwev2EW5SNdlmuqA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cypress-street-pint-and-plate-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 1473,
+        "categories": [
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.77740254666951,
+            "longitude": -84.3861436976034
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "817 W Peachtree St NE",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30308",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "817 W Peachtree St NE",
+                "Atlanta, GA 30308"
+            ]
+        },
+        "phone": "+14048159243",
+        "display_phone": "(404) 815-9243",
+        "distance": 1402.816684852652
+    },
+    {
+        "id": "bP6goJODwRnM3AVy45Kn9w",
+        "alias": "papis-cuban-and-caribbean-grill-atlanta",
+        "name": "Papi's Cuban & Caribbean Grill",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6V8VBOJ1KRoNKgL5Cf6MUw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/papis-cuban-and-caribbean-grill-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 1147,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.772758,
+            "longitude": -84.380375
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "216 Ponce De Leon Ave NE",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30308",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "216 Ponce De Leon Ave NE",
+                "Atlanta, GA 30308"
+            ]
+        },
+        "phone": "+14046071525",
+        "display_phone": "(404) 607-1525",
+        "distance": 727.7562362376482
+    },
+    {
+        "id": "Or5vdm-okztVKK8-3Wm1FQ",
+        "alias": "barcelona-inman-park-atlanta",
+        "name": "Barcelona Inman Park",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XmQjpax6GF3fTkHCqJOqvQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/barcelona-inman-park-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 1401,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.762945,
+            "longitude": -84.359655
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "240 N Highland Ave NE",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30307",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "240 N Highland Ave NE",
+                "Atlanta, GA 30307"
+            ]
+        },
+        "phone": "+14045891010",
+        "display_phone": "(404) 589-1010",
+        "distance": 1542.9861753491612
+    },
+    {
+        "id": "_2LfhO4Mqa-owUtSFgSblA",
+        "alias": "beetlecat-atlanta",
+        "name": "BeetleCat",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2SKA67FvOtV1CeQwcGWKYA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/beetlecat-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 1231,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.7626617912368,
+            "longitude": -84.3581965753937
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "299 North Highland Ave NE",
+            "address2": "",
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30307",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "299 North Highland Ave NE",
+                "Atlanta, GA 30307"
+            ]
+        },
+        "phone": "+16787320360",
+        "display_phone": "(678) 732-0360",
+        "distance": 1668.5467419894928
+    },
+    {
+        "id": "_F7t1ie5c299zxVJwwsd3g",
+        "alias": "delbar-middle-eastern-atlanta",
+        "name": "Delbar Middle Eastern",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/u1sLWv8aFOYnGPaUGCuQ2Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/delbar-middle-eastern-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 646,
+        "categories": [
+            {
+                "alias": "persian",
+                "title": "Persian/Iranian"
+            },
+            {
+                "alias": "lebanese",
+                "title": "Lebanese"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 33.761615,
+            "longitude": -84.3602065
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "870 Inman Village Pkwy NE",
+            "address2": null,
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30307",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "870 Inman Village Pkwy NE",
+                "Atlanta, GA 30307"
+            ]
+        },
+        "phone": "+14045001444",
+        "display_phone": "(404) 500-1444",
+        "distance": 1603.5020774227073
+    },
+    {
+        "id": "rP90TP7gOMzBFTrKWEEsOw",
+        "alias": "ecco-midtown-atlanta",
+        "name": "Ecco Midtown",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IAMubM4oEEpDWzgXO7ByaA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ecco-midtown-atlanta?adjust_creative=BEeVVarpxR5Q2ckmVkwTIQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BEeVVarpxR5Q2ckmVkwTIQ",
+        "review_count": 972,
+        "categories": [
+            {
+                "alias": "modern_european",
+                "title": "Modern European"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            }
+        ],
+        "rating": 4,
+        "coordinates": {
+            "latitude": 33.7789,
+            "longitude": -84.38604
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "40 7th St NE",
+            "address2": null,
+            "address3": "",
+            "city": "Atlanta",
+            "zip_code": "30308",
+            "country": "US",
+            "state": "GA",
+            "display_address": [
+                "40 7th St NE",
+                "Atlanta, GA 30308"
+            ]
+        },
+        "phone": "+14043479555",
+        "display_phone": "(404) 347-9555",
+        "distance": 1462.3946263015052
+    }
+]
